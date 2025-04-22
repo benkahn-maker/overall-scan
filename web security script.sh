@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================
 # Security Audit Script
-# By: Expert in Cybersecurity & Linux
+# By: Ben Kahn Cybersecurity Projects
 # ==============================
 
 #  Colors for output
